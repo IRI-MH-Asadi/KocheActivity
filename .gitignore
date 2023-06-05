@@ -475,4 +475,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-API/appsettings.json
+*/appsettings.json
+API/KocheActivities.db-wal
+API/KocheActivities.db-shm
