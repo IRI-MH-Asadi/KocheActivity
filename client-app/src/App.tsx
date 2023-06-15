@@ -16,7 +16,6 @@ function App() {
   return (
     <div>
       <Header as="h2" icon="users" content="Koche - Activities" />
-        <img src={logo} className="App-logo" alt="logo" />
         <List>
           {activities.map((activity : any) => (
             <List.Item key={activity.id}>
